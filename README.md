@@ -3,15 +3,14 @@ Analysis of enrollment and graduation trends over the past 9 years in Flanders, 
 
 
 ### Project overview
-This project investigates the declining enrollment numbers in Pharmaceutical Sciences programs in Flanders, Belgium. While working at the University of Leuven, fewer students were entering (and graduating) the program each year, and I wanted to explore whether this trend was limited to the University of Leuven or a more general trend encountered by all universities.
+This project investigates the declining enrollment numbers in Pharmaceutical Sciences programs in Flanders, Belgium. While working at the University of Leuven, I noticed fewer students entering and graduating each year. This raised the question: Is this trend unique to Leuven or a broader pattern across all universities?
 
 Using publicly available datasets, I combined, cleaned, and analyzed data in PostgreSQL before visualizing insights in Power BI. The aim is to identify key trends and compare the various institutions to one another.
 
 
 ### Data sources
-[Flanders Education Data Portal](https://www.onderwijs.vlaanderen.be/nl/onderwijsstatistieken/dataloep-aan-de-slag-met-cijfers-over-onderwijs/download-je-dataset-uit-dataloep) - Student enrollment and graduation numbers by year, institution and program
-
-[Statbel](https://statbel.fgov.be/nl/over-statbel/methodologie/classificaties/geografie) - NIS codes for geographical analysis
+- [Flanders Education Data Portal](https://www.onderwijs.vlaanderen.be/nl/onderwijsstatistieken/dataloep-aan-de-slag-met-cijfers-over-onderwijs/download-je-dataset-uit-dataloep) - Student enrollment and graduation numbers by year, institution and program
+- [Statbel](https://statbel.fgov.be/nl/over-statbel/methodologie/classificaties/geografie) - NIS codes for geographical analysis
 
 
 ### Tools & technologies
@@ -19,19 +18,19 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 - **DBeaver** - Database management & query execution
 - **Visual Studio Code** - SQL script version control
 - **Power BI** - Data visualization & dashboard creation
-- **PowerPoint** - Presentation for main stakeholders
+- **PowerPoint** - Stakeholder presentation
 
 
 ### Process
-**1. Data Collection** - Downloaded CSVs from official sources
+**1. Collect** - Downloaded CSVs from official sources
 
-**2. Data Cleaning** - Standardized naming, harmonized column values, handled input errors, merged multiple datasets
+**2. Clean** - Harmonized column values, corrected errors, merged datasets
 
-**3. Data Modelling** - Created dimension and fact tables, created aggregation tables for trend analysis
+**3. Model** - Built dimension and fact tables; created aggregation tables for trend analysis
 
-**4. Data Visualizaion** - Designed an interactive dashboard in Power BI
+**4. Visualize** - Designed an interactive dashboard in Power BI
 
-**5. Presentation** - Created a PowerPoint presentation with the main insights for stakeholders
+**5. Present** - Created a PowerPoint presentation for sharing the main insights
 
 
 ### Key insights
@@ -42,17 +41,18 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 
 
 ### Limitations and challenges
-- The source data covers all enrolled students and distinguishes generation students (students entering higher education for the first time). However, this is not equivalent to all students entering the specific program for the first time.
-- The datasets do not indicate when individual students graduate or leave the program. While the typical duration is three years, many students take longer to complete their studies.
-- There is no information on the timing of any major curriculum overhauls that the institutions may have implemented.
+- Source data distinguishes generation students (students entering higher education for the first time) but not program-specific first-timers.
+- Graduation timing per student is unknown; many take longer than the typical three years.
+- No data on timing of curriculum changes at institutions.
 
 
-### Files in this repository
-- Samples of the raw and cleaned data
-- SQL code
-- Power BI dashboard teaser
-- Data log
-- PowerPoint presentation
+### Repository contents
+- 01-data/raw-sample/ — Samples of raw data
+- 01-data/clean-sample/ — Samples of cleaned data
+- 02-sql/ — SQL scripts
+- 03-powerbi/dashboard-teaser.pdf - Screenshot of the interactive dashboard
+- 04-docs/data-log.xlsx - Data processing notes
+- 04-docs/presentation.pdf - PowerPoint with main insights
 
 
 ### Contact
