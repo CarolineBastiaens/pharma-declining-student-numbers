@@ -40,12 +40,19 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 - Ghent University shows recovery after a temporary dip and is the only university showing growth
 - The University of Leuven is experiencing a disproportionally high student attrition rate
 
+
 ### Limitations and challenges
 - The source data covers all enrolled students and distinguishes generation students (students entering higher education for the first time). However, this is not equivalent to all students entering the specific program for the first time.
 - The datasets do not indicate when individual students graduate or leave the program. While the typical duration is three years, many students take longer to complete their studies.
 - There is no information on the timing of any major curriculum overhauls that the institutions may have implemented.
 
+
 ### Files in this repository
+- Samples of the raw and cleaned data
+- SQL code
+- Power BI dashboard teaser
+- Data log
+- PowerPoint presentation
 
 
 ### Contact
