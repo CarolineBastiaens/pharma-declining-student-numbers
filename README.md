@@ -15,15 +15,11 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 
 
 ### Tools & technologies
-**PostgreSQL** - Data cleaning, transformation and analysis
-
-**DBeaver** - Database management & query execution
-
-**Visual Studio Code** - SQL script version control
-
-**Power BI** - Data visualization & dashboard creation
-
-**PowerPoint** - Presentation for main stakeholders
+- **PostgreSQL** - Data cleaning, transformation and analysis
+- **DBeaver** - Database management & query execution
+- **Visual Studio Code** - SQL script version control
+- **Power BI** - Data visualization & dashboard creation
+- **PowerPoint** - Presentation for main stakeholders
 
 
 ### Process
@@ -39,7 +35,10 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 
 
 ### Key insights
-
+- Three out of four universities face a structural decline in student enrollment
+- The University of Leuven has maintained its market share among first-time students, but has seen a sharp drop in the number of graduates
+- Ghent University shows recovery after a temporary dip and is the only university showing growth
+- The University of Leuven is experiencing a disproportionally high student attrition rate
 
 ### Limitations and challenges
 
