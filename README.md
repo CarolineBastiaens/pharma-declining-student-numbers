@@ -54,6 +54,8 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 - 04-docs/data-log.xlsx - Data processing notes
 - 04-docs/presentation.pdf - PowerPoint with main insights
 
+Note that the dashboard and presentation are in Dutch.
+
 
 ### Contact
 **Caroline Bastiaens**: [LinkedIn](https://www.linkedin.com/in/bastiaenscaroline/)
