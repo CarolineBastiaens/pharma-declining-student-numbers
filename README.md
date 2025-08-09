@@ -34,10 +34,10 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 
 
 ### Key insights
-- Three out of four universities face a structural decline in student enrollment
-- The University of Leuven has maintained its market share among students entering higher education for the first time, but has seen a sharp drop in the number of graduates
-- Ghent University shows recovery after a temporary dip and is the only university showing growth
-- The University of Leuven is experiencing a disproportionally high student attrition rate
+- Three out of four universities face a structural decline in student enrollment.
+- The University of Leuven has maintained its market share among students entering higher education for the first time, but has seen a sharp drop in the number of graduates.
+- Ghent University shows recovery after a temporary dip and is the only university showing growth.
+- The University of Leuven is experiencing a disproportionally high student attrition rate.
 
 
 ### Limitations
