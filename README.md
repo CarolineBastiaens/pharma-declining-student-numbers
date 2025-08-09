@@ -3,7 +3,7 @@ Analysis of enrollment and graduation trends over the past 9 years in Flanders, 
 
 
 ### Project overview
-This project investigates the declining enrollment numbers in Pharmaceutical Sciences programs in Flanders, Belgium. While working at the University of Leuven, I noticed fewer students entering and graduating each year. This raised the question: Is this trend unique to Leuven or a broader pattern across all universities?
+This project investigates the declining enrollment numbers in Pharmaceutical Sciences programs in Flanders, Belgium. While working at the University of Leuven, I noticed fewer students entering and graduating the program each year. This raised the question: Is this trend unique to Leuven or a broader pattern across all universities?
 
 Using publicly available datasets, I combined, cleaned, and analyzed data in PostgreSQL before visualizing insights in Power BI. The aim is to identify key trends and compare the various institutions to one another.
 
