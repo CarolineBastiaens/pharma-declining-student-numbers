@@ -43,7 +43,7 @@ Using publicly available datasets, I combined, cleaned, and analyzed data in Pos
 ### Limitations
 - Source data distinguishes generation students (students entering higher education for the first time) but not program-specific first-timers.
 - Graduation timing per student is unknown; many take longer than the typical three years.
-- No data on timing of curriculum changes at institutions.
+- No data on timing of significant curriculum changes at institutions.
 
 
 ### Repository contents
